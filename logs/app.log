@@ -1,0 +1,662 @@
+2016-05-26 21:10:00,485 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [B][G][P][Y]
+2016-05-26 21:10:00,486 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:10:00,486 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:10:11,835 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: rrrr
+2016-05-26 21:10:11,835 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: rrrr
+2016-05-26 21:10:13,307 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RRRR
+2016-05-26 21:10:13,307 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RRRR
+2016-05-26 21:10:13,307 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [R][R][R][R]
+2016-05-26 21:10:13,307 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  - 
+2016-05-26 21:10:13,307 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 21:10:13,307 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 21:10:13,307 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 21:10:16,599 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-26 21:10:16,599 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-26 21:10:19,688 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: salir
+2016-05-26 21:10:19,688 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: salir
+2016-05-26 21:10:19,689 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-26 21:10:19,689 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-26 21:24:45,055 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [B][R][G][Y]
+2016-05-26 21:24:45,056 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:24:45,056 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:24:47,673 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: rr
+2016-05-26 21:24:47,673 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: rr
+2016-05-26 21:24:51,459 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-26 21:24:51,459 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-26 21:24:51,459 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-26 21:24:51,459 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-26 21:24:51,459 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-26 21:24:51,459 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-26 21:25:39,138 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][Y][P][G]
+2016-05-26 21:25:39,139 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:25:39,139 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:25:44,187 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCPG
+2016-05-26 21:25:44,187 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCPG
+2016-05-26 21:25:44,187 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [C][C][P][G]
+2016-05-26 21:25:44,187 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-26 21:25:44,187 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 21:25:44,187 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 21:25:44,187 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 21:25:47,585 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: S
+2016-05-26 21:25:47,585 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: S
+2016-05-26 21:25:55,682 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: PPG
+2016-05-26 21:25:55,682 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: PPG
+2016-05-26 21:25:58,651 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CYPG
+2016-05-26 21:25:58,651 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CYPG
+2016-05-26 21:25:58,651 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [C][Y][P][G]
+2016-05-26 21:25:58,651 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O]
+2016-05-26 21:25:58,651 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-26 21:25:58,651 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-26 21:25:58,652 INFO e.u.p.m.Mastermind [main] Mensaje final: ¡Has ganado!
+2016-05-26 21:25:58,652 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-26 21:25:58,652 INFO e.u.p.m.Mastermind [main] Mensaje final: ¡Has ganado!
+2016-05-26 21:26:39,972 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][Y][P][G]
+2016-05-26 21:26:39,973 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:26:39,973 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 21:26:42,682 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: DDDD
+2016-05-26 21:26:42,682 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: DDDD
+2016-05-26 21:26:44,785 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: DDDD
+2016-05-26 21:26:44,785 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: DDDD
+2016-05-26 21:26:46,747 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CCCC
+2016-05-26 21:26:46,747 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CCCC
+2016-05-26 21:26:46,747 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [C][C][C][C]
+2016-05-26 21:26:46,747 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  - 
+2016-05-26 21:26:46,747 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 21:26:46,747 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 21:26:46,747 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 21:26:47,723 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:47,723 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:47,723 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [C][C][C][C]
+2016-05-26 21:26:47,723 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  - 
+2016-05-26 21:26:47,724 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-26 21:26:47,724 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-26 21:26:47,724 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 21:26:48,742 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:48,742 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:48,742 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [C][C][C][C]
+2016-05-26 21:26:48,742 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  - 
+2016-05-26 21:26:48,742 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-26 21:26:48,742 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-26 21:26:48,742 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 21:26:49,725 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:49,725 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:49,725 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [C][C][C][C]
+2016-05-26 21:26:49,725 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  - 
+2016-05-26 21:26:49,725 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-26 21:26:49,725 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-26 21:26:49,725 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 21:26:50,832 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:50,832 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCC
+2016-05-26 21:26:50,832 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [C][C][C][C]
+2016-05-26 21:26:50,832 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  - 
+2016-05-26 21:26:50,832 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-26 21:26:50,832 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-26 21:26:50,832 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-26 21:26:50,832 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 23:24:37,137 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [Y][P][C][G]
+2016-05-26 23:24:37,138 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 23:24:37,138 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-26 23:24:42,437 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: DD
+2016-05-26 23:24:42,437 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: DD
+2016-05-26 23:24:43,771 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: D
+2016-05-26 23:24:43,771 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: D
+2016-05-26 23:24:48,400 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: PCGY
+2016-05-26 23:24:48,400 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: PCGY
+2016-05-26 23:24:48,400 INFO e.u.p.m.Mastermind [main] Combinacion Introducida: [P][C][G][Y]
+2016-05-26 23:24:48,400 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [X][X][X][X]
+2016-05-26 23:24:48,400 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 23:24:48,400 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-26 23:24:48,400 INFO e.u.p.m.Mastermind [main] Mensaje final: Has perdido...
+2016-05-26 23:24:55,644 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-26 23:24:55,644 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-26 23:24:55,644 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-26 23:24:55,644 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-26 23:24:55,644 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-26 23:24:55,644 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-27 12:41:10,715 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [G][R][P][B]
+2016-05-27 12:41:10,716 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 12:41:10,716 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 12:41:30,076 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: KK2K2
+2016-05-27 12:41:30,076 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: KK2K2
+2016-05-27 12:41:42,626 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: KK2K
+2016-05-27 12:41:42,626 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: KK2K
+2016-05-27 12:43:15,919 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-27 12:43:15,919 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-27 12:43:15,919 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-27 12:43:15,919 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-27 12:43:15,919 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-27 12:43:15,919 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-27 16:48:38,970 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [P][C][B][R][G]
+2016-05-27 16:48:38,973 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 16:48:38,973 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 16:48:52,402 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRR
+2016-05-27 16:48:52,402 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRR
+2016-05-27 16:49:00,131 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 12345
+2016-05-27 16:49:00,131 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 12345
+2016-05-27 16:49:10,442 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 1234
+2016-05-27 16:49:10,442 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 1234
+2016-05-27 16:49:23,880 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: ccccc
+2016-05-27 16:49:23,880 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: ccccc
+2016-05-27 16:49:28,644 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CCCCC
+2016-05-27 16:49:28,644 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CCCCC
+2016-05-27 16:49:28,644 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 16:49:28,644 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 16:49:28,644 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 16:49:28,644 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-27 16:49:28,644 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-27 16:49:28,644 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-27 17:02:46,544 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [R][Y][G][C][B]
+2016-05-27 17:02:46,545 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:02:46,545 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:02:50,287 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: R
+2016-05-27 17:02:50,287 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: R
+2016-05-27 17:02:54,096 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: K
+2016-05-27 17:02:54,096 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: K
+2016-05-27 17:03:10,405 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-27 17:03:10,405 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-27 17:03:10,405 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-27 17:03:10,405 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-27 17:03:10,405 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-27 17:03:10,405 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-27 17:03:39,195 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][R][G][P][Y]
+2016-05-27 17:03:39,195 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:03:39,195 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:03:41,715 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: K
+2016-05-27 17:03:41,715 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: K
+2016-05-27 17:03:52,927 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CCCCC
+2016-05-27 17:03:52,927 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: CCCCC
+2016-05-27 17:03:52,927 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:03:52,927 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 17:03:52,927 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 17:03:55,061 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:55,061 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:55,061 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:03:55,061 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-27 17:03:55,061 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-27 17:03:56,391 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:56,391 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:56,392 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:03:56,392 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-27 17:03:56,392 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-27 17:03:57,422 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:57,422 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:57,422 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:03:57,422 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-27 17:03:57,422 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-27 17:03:58,495 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:58,495 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:58,495 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:03:58,496 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-27 17:03:58,496 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-27 17:03:59,749 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:59,749 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:03:59,749 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:03:59,754 INFO e.u.p.m.Interfaz [main] Intento numero:6 finalizado
+2016-05-27 17:03:59,754 INFO e.u.p.m.Interfaz [main] Intento numero:6 finalizado
+2016-05-27 17:04:01,060 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:04:01,060 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:04:01,060 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:04:01,060 INFO e.u.p.m.Interfaz [main] Intento numero:7 finalizado
+2016-05-27 17:04:01,060 INFO e.u.p.m.Interfaz [main] Intento numero:7 finalizado
+2016-05-27 17:04:02,285 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:04:02,285 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:04:02,285 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:04:02,285 INFO e.u.p.m.Interfaz [main] Intento numero:8 finalizado
+2016-05-27 17:04:02,285 INFO e.u.p.m.Interfaz [main] Intento numero:8 finalizado
+2016-05-27 17:04:03,668 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:04:03,668 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:04:03,669 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:04:03,669 INFO e.u.p.m.Interfaz [main] Intento numero:9 finalizado
+2016-05-27 17:04:03,669 INFO e.u.p.m.Interfaz [main] Intento numero:9 finalizado
+2016-05-27 17:08:24,850 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][B][R][G][Y]
+2016-05-27 17:08:24,851 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:08:24,851 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:08:30,328 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:30,328 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:30,328 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:30,328 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 17:08:30,328 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 17:08:31,674 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:31,674 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:31,674 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:31,674 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-27 17:08:31,674 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-27 17:08:32,804 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:32,804 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:32,804 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:32,804 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-27 17:08:32,804 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-27 17:08:33,973 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:33,973 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:33,974 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:33,974 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-27 17:08:33,974 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-27 17:08:35,196 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:35,196 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:35,196 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:35,196 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-27 17:08:35,196 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-27 17:08:36,380 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:36,380 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:36,380 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:36,380 INFO e.u.p.m.Interfaz [main] Intento numero:6 finalizado
+2016-05-27 17:08:36,380 INFO e.u.p.m.Interfaz [main] Intento numero:6 finalizado
+2016-05-27 17:08:38,355 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:38,355 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:38,355 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:38,355 INFO e.u.p.m.Interfaz [main] Intento numero:7 finalizado
+2016-05-27 17:08:38,355 INFO e.u.p.m.Interfaz [main] Intento numero:7 finalizado
+2016-05-27 17:08:39,788 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:39,788 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:39,788 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:39,788 INFO e.u.p.m.Interfaz [main] Intento numero:8 finalizado
+2016-05-27 17:08:39,788 INFO e.u.p.m.Interfaz [main] Intento numero:8 finalizado
+2016-05-27 17:08:41,091 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:41,091 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:41,091 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:41,091 INFO e.u.p.m.Interfaz [main] Intento numero:9 finalizado
+2016-05-27 17:08:41,091 INFO e.u.p.m.Interfaz [main] Intento numero:9 finalizado
+2016-05-27 17:08:42,459 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:42,459 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CCCCC
+2016-05-27 17:08:42,459 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 17:08:42,459 INFO e.u.p.m.Interfaz [main] Intento numero:10 finalizado
+2016-05-27 17:08:42,459 INFO e.u.p.m.Interfaz [main] Intento numero:10 finalizado
+2016-05-27 17:08:42,459 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-27 17:08:42,460 INFO e.u.p.m.Interfaz [main] Mensaje final: Has perdido...
+2016-05-27 17:08:42,460 INFO e.u.p.m.Interfaz [main] Mensaje final: Has perdido...
+2016-05-27 17:08:59,825 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][Y][G][R][B]
+2016-05-27 17:08:59,826 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:08:59,826 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:09:12,129 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CYGRB
+2016-05-27 17:09:12,129 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: CYGRB
+2016-05-27 17:09:12,129 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O][O]
+2016-05-27 17:09:12,129 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 17:09:12,129 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 17:09:12,129 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-27 17:09:12,129 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-27 17:09:12,129 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-27 17:15:21,841 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][P][R][B][Y]
+2016-05-27 17:15:21,842 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 17:15:26,769 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: cdc
+2016-05-27 17:15:30,487 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RGBY
+2016-05-27 17:15:34,567 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RGBYY
+2016-05-27 17:15:34,567 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][X][X] -  - 
+2016-05-27 17:15:34,567 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 17:15:39,012 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-27 17:15:39,012 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-27 17:15:39,012 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-27 21:43:08,349 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [Y][G][R][C][B]
+2016-05-27 21:43:08,350 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 21:43:08,350 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 21:43:12,097 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRR
+2016-05-27 21:43:12,097 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRR
+2016-05-27 21:43:13,667 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RRRRR
+2016-05-27 21:43:13,667 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RRRRR
+2016-05-27 21:43:13,667 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 21:43:13,667 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 21:43:13,667 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 21:43:18,220 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRR
+2016-05-27 21:43:18,220 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRR
+2016-05-27 21:48:53,945 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [R][Y][G][P][B]
+2016-05-27 21:48:53,946 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 21:48:53,946 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-27 21:48:57,821 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRR
+2016-05-27 21:48:57,821 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRR
+2016-05-27 21:49:02,773 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RRRRR
+2016-05-27 21:49:02,773 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RRRRR
+2016-05-27 21:49:02,774 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-27 21:49:02,774 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 21:49:02,774 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: 
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: 
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,198 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,199 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,200 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,204 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,204 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,204 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,204 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,205 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,205 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,205 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,205 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,205 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,205 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,206 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,206 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,214 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,214 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,214 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,214 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,215 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-27 21:49:27,215 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 12:30:13,893 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-28 12:30:13,895 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][X] -  - 
+2016-05-28 12:30:13,895 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O]
+2016-05-28 12:30:13,899 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O]
+2016-05-28 12:30:13,899 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-28 12:30:13,899 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-28 12:30:13,901 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O]
+2016-05-28 12:30:13,901 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-28 12:30:13,901 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-28 12:30:13,901 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-28 12:30:13,901 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-28 12:30:13,902 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [P][G][Y][C]
+2016-05-28 12:30:27,146 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [Y][B][G][P][R]
+2016-05-28 12:30:27,147 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:30:27,147 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:30:30,837 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:30:30,837 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:30:30,838 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-28 12:30:30,838 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:30:30,838 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:30:39,835 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRRRR
+2016-05-28 12:30:39,835 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRRRR
+2016-05-28 12:30:41,349 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: R
+2016-05-28 12:30:41,349 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: R
+2016-05-28 12:30:42,231 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 12:30:42,231 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 12:30:48,958 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 12345667
+2016-05-28 12:30:48,958 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 12345667
+2016-05-28 12:52:56,325 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [Y][G][P][B][C]
+2016-05-28 12:52:56,326 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:52:56,326 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:52:59,949 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: PPPPPP
+2016-05-28 12:52:59,949 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: PPPPPP
+2016-05-28 12:53:01,213 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: P
+2016-05-28 12:53:01,213 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: P
+2016-05-28 12:53:04,571 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: KPP12
+2016-05-28 12:53:04,571 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: KPP12
+2016-05-28 12:53:09,792 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: YGPC
+2016-05-28 12:53:09,792 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: YGPC
+2016-05-28 12:53:13,183 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: YPPPC
+2016-05-28 12:53:13,183 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: YPPPC
+2016-05-28 12:53:13,183 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] -  - 
+2016-05-28 12:53:13,183 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [Y][P][P][P][C]
+2016-05-28 12:53:13,183 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [Y][P][P][P][C]
+2016-05-28 12:53:13,183 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:53:13,183 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:53:18,707 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:18,707 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:18,707 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:18,707 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:18,707 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:18,707 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-28 12:53:18,707 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-28 12:53:19,824 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:19,824 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:19,824 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:19,824 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:19,824 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:19,824 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-28 12:53:19,824 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-28 12:53:20,879 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:20,879 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:20,879 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:20,879 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:20,879 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:20,879 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-28 12:53:20,879 INFO e.u.p.m.Interfaz [main] Intento numero:4 finalizado
+2016-05-28 12:53:21,956 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:21,956 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:21,956 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:21,956 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:21,956 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:21,957 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-28 12:53:21,957 INFO e.u.p.m.Interfaz [main] Intento numero:5 finalizado
+2016-05-28 12:53:23,088 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:23,088 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:23,088 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:23,088 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:23,088 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:23,088 INFO e.u.p.m.Interfaz [main] Intento numero:6 finalizado
+2016-05-28 12:53:23,088 INFO e.u.p.m.Interfaz [main] Intento numero:6 finalizado
+2016-05-28 12:53:24,287 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:24,287 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:24,288 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:24,288 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:24,288 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:24,288 INFO e.u.p.m.Interfaz [main] Intento numero:7 finalizado
+2016-05-28 12:53:24,288 INFO e.u.p.m.Interfaz [main] Intento numero:7 finalizado
+2016-05-28 12:53:25,468 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:25,468 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:25,468 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:25,468 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:25,468 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:25,469 INFO e.u.p.m.Interfaz [main] Intento numero:8 finalizado
+2016-05-28 12:53:25,469 INFO e.u.p.m.Interfaz [main] Intento numero:8 finalizado
+2016-05-28 12:53:26,648 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:26,648 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:26,648 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:26,648 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:26,648 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:26,648 INFO e.u.p.m.Interfaz [main] Intento numero:9 finalizado
+2016-05-28 12:53:26,648 INFO e.u.p.m.Interfaz [main] Intento numero:9 finalizado
+2016-05-28 12:53:28,101 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:28,101 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:53:28,101 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:53:28,101 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:28,101 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:53:28,102 INFO e.u.p.m.Interfaz [main] Intento numero:10 finalizado
+2016-05-28 12:53:28,102 INFO e.u.p.m.Interfaz [main] Intento numero:10 finalizado
+2016-05-28 12:53:28,102 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-28 12:53:28,102 INFO e.u.p.m.Interfaz [main] Mensaje final: Has perdido...
+ La combinacion secreta era[Y][G][P][B][C]
+2016-05-28 12:53:28,102 INFO e.u.p.m.Interfaz [main] Mensaje final: Has perdido...
+ La combinacion secreta era[Y][G][P][B][C]
+2016-05-28 12:53:38,591 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [R][Y][P][C][G]
+2016-05-28 12:53:38,592 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:53:38,592 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RYPCG
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RYPCG
+2016-05-28 12:53:41,742 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O][O]
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][Y][P][C][G]
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][Y][P][C][G]
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:53:41,742 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-28 12:53:41,742 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-28 12:56:18,700 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [B][C][Y][P][G]
+2016-05-28 12:56:18,701 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:56:18,701 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-28 12:56:21,028 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:56:21,028 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-28 12:56:21,028 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:56:21,028 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-28 12:56:21,029 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-28 12:56:21,029 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:56:21,029 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-28 12:56:23,763 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRRRR
+2016-05-28 12:56:23,763 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRRRRR
+2016-05-28 12:56:26,344 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 23431453245
+2016-05-28 12:56:26,344 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 23431453245
+2016-05-28 12:56:39,020 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: BPGYC
+2016-05-28 12:56:39,020 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: BPGYC
+2016-05-28 12:56:39,021 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [B][P][G][Y][C]
+2016-05-28 12:56:39,021 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [B][P][G][Y][C]
+2016-05-28 12:56:39,021 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][X][X][X][X]
+2016-05-28 12:56:39,021 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-28 12:56:39,021 INFO e.u.p.m.Interfaz [main] Intento numero:2 finalizado
+2016-05-28 12:56:51,073 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: BCYPG
+2016-05-28 12:56:51,073 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: BCYPG
+2016-05-28 12:56:51,073 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [B][C][Y][P][G]
+2016-05-28 12:56:51,073 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [B][C][Y][P][G]
+2016-05-28 12:56:51,073 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O][O]
+2016-05-28 12:56:51,073 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-28 12:56:51,073 INFO e.u.p.m.Interfaz [main] Intento numero:3 finalizado
+2016-05-28 12:56:51,074 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-28 12:56:51,074 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-28 12:56:51,074 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-28 13:04:26,008 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,008 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,008 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,008 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,009 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,010 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,011 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,011 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,011 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,011 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,011 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,011 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,012 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,013 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,013 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,013 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,013 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,017 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,017 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,017 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,017 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,017 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,017 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,018 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,018 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,018 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,018 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,019 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,019 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,019 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,019 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,023 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,023 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,023 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,023 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,024 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,024 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,024 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,024 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,025 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,025 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,025 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,025 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,026 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,026 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,026 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-28 13:04:26,026 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: 
+2016-05-31 00:28:00,948 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [P][G][C][Y][B]
+2016-05-31 00:28:00,952 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 00:28:00,952 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 00:28:15,061 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: PGCYB
+2016-05-31 00:28:15,061 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: PGCYB
+2016-05-31 00:28:15,061 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [P][G][C][Y][B]
+2016-05-31 00:28:15,061 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [P][G][C][Y][B]
+2016-05-31 00:28:15,061 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O][O]
+2016-05-31 00:28:15,061 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-31 00:28:15,061 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-31 00:28:15,062 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-31 00:28:15,062 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-31 00:28:15,062 INFO e.u.p.m.Interfaz [main] Mensaje final: ¡Has ganado!
+2016-05-31 00:30:43,759 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-31 00:30:43,761 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][X] -  - 
+2016-05-31 00:30:43,762 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O]
+2016-05-31 00:30:43,763 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O]
+2016-05-31 00:30:43,764 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-31 00:30:43,764 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-31 00:30:43,765 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O][O]
+2016-05-31 00:30:43,765 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-31 00:30:43,765 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-31 00:30:43,765 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O][O][O] - 
+2016-05-31 00:30:43,765 INFO e.u.p.m.Mastermind [main] Se ha acabado la partida
+2016-05-31 00:30:43,766 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [P][Y][C][G]
+2016-05-31 10:54:14,090 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [B][G][P][C][R]
+2016-05-31 10:55:21,526 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [G][R][Y][B][P]
+2016-05-31 10:55:33,479 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [R][C][G][P][Y]
+2016-05-31 10:56:24,174 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [B][C][Y][R][P]
+2016-05-31 10:56:24,175 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 10:56:28,448 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-31 10:56:28,449 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-31 10:56:28,449 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-31 10:56:47,995 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [G][R][C][P][B]
+2016-05-31 10:56:47,996 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 10:56:50,642 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: D
+2016-05-31 10:56:53,030 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: DDDDDDD
+2016-05-31 10:57:00,261 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RGBB
+2016-05-31 10:57:04,212 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RGBBY
+2016-05-31 10:57:04,212 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][G][B][B][Y]
+2016-05-31 10:57:04,213 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [X][X][X] -  - 
+2016-05-31 10:57:04,213 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-31 10:57:09,036 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RGYB
+2016-05-31 10:57:11,003 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-31 10:57:11,003 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-31 10:57:11,003 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-31 11:00:04,517 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][Y][B][P][G]
+2016-05-31 11:00:04,518 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 11:00:08,718 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: F
+2016-05-31 11:00:10,791 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: FFFFFFFFFF
+2016-05-31 11:00:19,146 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: RRRRR
+2016-05-31 11:00:19,146 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-31 11:00:19,146 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  -  - 
+2016-05-31 11:00:19,146 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-31 11:00:21,129 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-31 11:00:21,130 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-31 11:00:21,130 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-31 12:16:57,605 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [R][G][P][C][Y]
+2016-05-31 12:16:57,607 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 12:17:07,606 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: YOLO
+2016-05-31 12:17:10,991 INFO e.u.p.m.Interfaz [main] Nueva linea introducida por el usuario tras el error: SALIR
+2016-05-31 12:17:10,991 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-31 12:17:10,991 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-31 12:20:25,163 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [Y][B][R][C][G]
+2016-05-31 12:20:25,164 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 12:21:04,651 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRRR
+2016-05-31 12:21:04,651 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R][R]
+2016-05-31 12:21:04,651 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones: [O] -  -  -  - 
+2016-05-31 12:21:04,651 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-31 12:21:32,804 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-31 12:21:32,804 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-31 12:21:32,804 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-31 16:08:17,650 INFO e.u.p.m.MastermindMain [main] Numero de argumentos introducidos: 0
+2016-05-31 16:08:42,342 INFO e.u.p.m.Mastermind [main] Combinacion aleatoria generada: [C][P][Y][B]
+2016-05-31 16:08:42,343 INFO e.u.p.m.Interfaz [main] Iniciando juego
+2016-05-31 16:08:50,753 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: RRRR
+2016-05-31 16:08:50,753 INFO e.u.p.m.Interfaz [main] Combinacion introducida por el usuario: [R][R][R][R]
+2016-05-31 16:08:50,753 INFO e.u.p.m.Mastermind [main] Resultado de comparar las combinaciones:  -  -  -  - 
+2016-05-31 16:08:50,753 INFO e.u.p.m.Interfaz [main] Intento numero:1 finalizado
+2016-05-31 16:08:57,853 INFO e.u.p.m.Interfaz [main] Linea introducida por el usuario: SALIR
+2016-05-31 16:08:57,853 INFO e.u.p.m.Interfaz [main] El usuario decide salir
+2016-05-31 16:08:57,853 INFO e.u.p.m.Interfaz [main] Se acaba el pograma
+2016-05-31 19:34:31,374 INFO e.u.p.m.MastermindMain [main] Numero de argumentos introducidos: 0
