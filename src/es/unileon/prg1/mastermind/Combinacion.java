@@ -4,8 +4,7 @@ import java.util.Random;
 
 /**
  * 
- * @author Alejandro Moya Garcia, Pablo Gonzalez de la Iglesia, Juan Carlos
- *         Gutierrez Vicente, Ignacio Rodriguez Basante
+ * 
  *
  */
 public class Combinacion {

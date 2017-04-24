@@ -5,8 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.Ignore;
 /**
- *  @author Alejandro Moya Garcia, Pablo Gonzalez de la Iglesia, Juan Carlos
- *         Gutierrez Vicente, Ignacio Rodriguez Basante
+ *
  * 
  *
  */

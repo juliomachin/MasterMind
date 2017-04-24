@@ -1,8 +1,7 @@
 package es.unileon.prg1.mastermind;
 import static org.junit.Assert.*;
 /**
- *  @author Alejandro Moya Garcia, Pablo Gonzalez de la Iglesia, Juan Carlos
- *         Gutierrez Vicente, Ignacio Rodriguez Basante
+ *
  */
 
 import org.junit.Before;

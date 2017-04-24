@@ -1,8 +1,7 @@
 package es.unileon.prg1.mastermind;
 import org.apache.logging.log4j.Logger;
 /**
- *  @author Alejandro Moya Garcia, Pablo Gonzalez de la Iglesia, Juan Carlos
- *         Gutierrez Vicente, Ignacio Rodriguez Basante
+ *
  */
 import org.apache.logging.log4j.LogManager;
 public class Mastermind{

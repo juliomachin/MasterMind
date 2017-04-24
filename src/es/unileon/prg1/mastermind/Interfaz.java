@@ -3,8 +3,7 @@ import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 /**
  * 
- *  @author Alejandro Moya Garcia, Pablo Gonzalez de la Iglesia, Juan Carlos
- *         Gutierrez Vicente, Ignacio Rodriguez Basante
+ * 
  */
 public class Interfaz {
 	private static final Logger logger = LogManager.getLogger(Interfaz.class);

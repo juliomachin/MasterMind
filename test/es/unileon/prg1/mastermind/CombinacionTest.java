@@ -8,8 +8,7 @@ import org.junit.Ignore;
 
 /**
  * 
- *  @author Alejandro Moya Garcia, Pablo Gonzalez de la Iglesia, Juan Carlos
- *         Gutierrez Vicente, Ignacio Rodriguez Basante
+ *  
  */
 public class CombinacionTest {
 	Combinacion combinacion;
